@@ -1,2 +1,3 @@
-# GitGud
+# GitGood
 Sample Repo
+
